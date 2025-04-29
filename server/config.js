@@ -269,6 +269,26 @@ const conf = convict({
     default: '',
     env: 'CUSTOM_FOOTER_URL'
   },
+  main_notice_html: {
+    format: String,
+    default: '',
+    env: 'SEND_MAIN_NOTICE_HTML'
+  },
+  upload_area_notice_html: {
+    format: String,
+    default: '',
+    env: 'SEND_UPLOAD_AREA_NOTICE_HTML'
+  },
+  uploads_list_notice_html: {
+    format: String,
+    default: '',
+    env: 'SEND_UPLOADS_LIST_NOTICE_HTML'
+  },
+  download_notice_html: {
+    format: String,
+    default: '',
+    env: 'SEND_DOWNLOAD_NOTICE_HTML'
+  },
   ui_color_primary: {
     format: String,
     default: '#0a84ff',

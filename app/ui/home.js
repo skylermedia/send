@@ -1,4 +1,5 @@
 const html = require('choo/html');
+const raw = require('choo/html/raw');
 const { list } = require('../utils');
 const archiveTile = require('./archiveTile');
 const modal = require('./modal');
@@ -16,7 +17,19 @@ module.exports = function(state, emit) {
   } else {
     left = archiveTile.empty(state, emit);
   }
+
+  if (archives.length > 0 && state.WEB_UI.UPLOADS_LIST_NOTICE_HTML) {
+    archives.push(html`
+      <p
+        class="w-full p-2 border-default dark:border-grey-70 rounded-default text-orange-60 bg-yellow-40 text-center leading-normal"
+      >
+        ${raw(state.WEB_UI.UPLOADS_LIST_NOTICE_HTML)}
+      </p>
+    `);
+  }
+
   archives.reverse();
+
   const right =
     archives.length === 0
       ? intro(state)
