@@ -111,9 +111,9 @@ legalDateStamp = 2019 മാർച്ച് 12 തീയതിയിൽ പത�
 expiresDaysHoursMinutes = { $days } ദിവസം { $hours } മണിക്കൂർ { $minutes } മിനിറ്റ്
 addFilesButton = അപ്‌ലോഡ് ചെയ്യാനുള്ള ഫയലുകൾ തിരഞ്ഞെടുക്കുക
 uploadButton = അപ്‍ലോഡ്
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ഫയലുകൾ വലിച്ചിടുക
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = അല്ലെങ്കിൽ { $size } വരെ അയയ്ക്കുന്നതിന് അമർത്തുക
 addPassword = രഹസ്യവാക്ക് ഉപയോഗിച്ച് സംരക്ഷിക്കുക

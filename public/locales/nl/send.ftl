@@ -30,6 +30,7 @@ deletePopupCancel = Annuleren
 deleteButtonHover = Verwijderen
 footerText = Niet gelieerd aan Mozilla of Firefox.
 footerLinkDonate = Doneren
+footerLinkReport = Rapport
 footerLinkCli = CLI
 footerLinkDmca = DMCA
 footerLinkSource = Broncode
@@ -116,9 +117,9 @@ legalDateStamp = Versie 1.0 d.d. 12 maart 2019
 expiresDaysHoursMinutes = { $days }d { $hours }u { $minutes }m
 addFilesButton = Selecteer te uploaden bestanden
 uploadButton = Uploaden
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Versleep bestanden
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = of klik om tot { $size } te versturen
 addPassword = Beveiligen met wachtwoord

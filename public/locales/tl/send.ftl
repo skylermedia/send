@@ -90,7 +90,7 @@ legalDateStamp = Bersyon 1.0, petsa ng Marso 12, 2019
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = Piliin ang mga file na mai-upload
 uploadButton = I-upload
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = I-drag at i-drop ang mga file
 addPassword = Protektahan gamit ang password
 emailPlaceholder = Ipasok ang iyong email

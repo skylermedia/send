@@ -111,9 +111,9 @@ legalDateStamp = Έκδοση 1.0, από 12 Μαρτίου 2019
 expiresDaysHoursMinutes = { $days }η { $hours }ώ { $minutes }λ
 addFilesButton = Επιλέξτε αρχεία για μεταφόρτωση
 uploadButton = Μεταφόρτωση
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Σύρετε και εναποθέστε αρχεία
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = ή κάντε κλικ για να στείλετε μέχρι { $size }
 addPassword = Προστασία με κωδικό πρόσβασης

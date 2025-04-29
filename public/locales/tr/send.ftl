@@ -107,9 +107,9 @@ legalDateStamp = Sürüm 1.0, 12 Mart 2019
 expiresDaysHoursMinutes = { $days } g { $hours } sa { $minutes } dk
 addFilesButton = Yüklenecek dosyaları seçin
 uploadButton = Yükle
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Dosyaları sürükleyip bırakarak
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = veya buraya tıklayarak { $size }’ye kadar dosyalarınızı gönderebilirsiniz
 addPassword = Parola koruması ekle

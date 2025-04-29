@@ -143,9 +143,9 @@ legalDateStamp = الإصدارة ١٫٠ بتاريخ ١٢ مارس ٢٠١٩
 expiresDaysHoursMinutes = { $days }يوم { $hours }سا { $minutes }دق
 addFilesButton = حدّد الملفات التي تريد رفعها
 uploadButton = ارفع
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = اسحب الملفات وأفلِتها هنا
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = أو انقر لإرسال ملفات يصل حجمها { $size }
 addPassword = احمِه بكلمة سر

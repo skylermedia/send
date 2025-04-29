@@ -103,9 +103,9 @@ legalDateStamp = バージョン 1.0, 2019年3月12日時点
 expiresDaysHoursMinutes = { $days } 日 { $hours } 時 { $minutes } 分
 addFilesButton = アップロードするファイルを選択
 uploadButton = アップロード
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ファイルをドラッグ＆ドロップ
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = または、クリックして最大 { $size } のファイルを送信
 addPassword = パスワードで保護

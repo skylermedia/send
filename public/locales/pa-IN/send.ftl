@@ -111,9 +111,9 @@ legalDateStamp = ਵਰਜ਼ਨ 1.0, ਮਿਤੀ 12 ਮਾਰਚ 2019
 expiresDaysHoursMinutes = { $days } ਦਿਨ { $hours } ਘੰ { $minutes } ਮਿੰ
 addFilesButton = ਚੁਣੀਆਂ ਫਾਇਲਾਂ ਅੱਪਲੋਡ ਕਰੋ
 uploadButton = ਅੱਪਲੋਡ ਕਰੋ
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ਫਾਇਲਾਂ ਖਿੱਚੋ ਅਤੇ ਸੁੱਟੋ
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = ਜਾਂ { $size } ਤੱਕ ਭੇਜਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 addPassword = ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਰੋ

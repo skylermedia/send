@@ -111,9 +111,9 @@ legalDateStamp = Mba’epyahu 1.0, 12 jasyapy 2019 peguare
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = Eiporavo marandurenda ehupi hag̃ua
 uploadButton = Hupi
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Embosyryry ha epoi marandurenda
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = térã eikutu emondo hag̃ua { $size } peve
 addPassword = Ñe’ẽñemíme mo’ãmbyre

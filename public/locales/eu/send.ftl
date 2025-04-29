@@ -111,9 +111,9 @@ legalDateStamp = 1.0 bertsioa, 2019ko martxoaren 12koa.
 expiresDaysHoursMinutes = { $days }e { $hours }h { $minutes }m
 addFilesButton = Hautatu igotzeko fitxategiak
 uploadButton = Igo
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Arrastatu eta jaregin fitxategiak
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = edo egin klik { $size } arte igotzeko
 addPassword = Babestu pasahitzarekin

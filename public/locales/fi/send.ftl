@@ -111,9 +111,9 @@ legalDateStamp = Versio 1.0, päivätty 13. maaliskuuta 2019
 expiresDaysHoursMinutes = { $days } pv { $hours } t { $minutes } min
 addFilesButton = Valitse lähetettävät tiedostot
 uploadButton = Lähetä
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Vedä ja pudota tiedostot
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = tai napsauta lähettääksesi tiedostoja, joiden koko voi olla enintään { $size }
 addPassword = Suojaa salasanalla

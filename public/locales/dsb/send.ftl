@@ -127,9 +127,9 @@ legalDateStamp = Wersija 1.0 wót 12. měrca 2019
 expiresDaysHoursMinutes = { $days }ź { $hours }g { $minutes }m
 addFilesButton = Dataje za nagrawanje wubraś
 uploadButton = Nagraś
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Śěgniśo a wótpołožćo dataje
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = abo klikniśo, aby do { $size } pósłał
 addPassword = Z gronidłom šćitaś

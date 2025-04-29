@@ -119,9 +119,9 @@ legalDateStamp = Versiunea 1.0 din data de 12 martie 2019
 expiresDaysHoursMinutes = { $days }z { $hours }h { $minutes }m
 addFilesButton = Selectează fișierele pentru încărcare
 uploadButton = Încarcă
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Trage și plasează fișierele
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = sau dă clic pentru a trimite până la { $size }
 addPassword = Protejează cu parolă

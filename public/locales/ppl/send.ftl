@@ -111,9 +111,9 @@ legalDateStamp = Tamakalis 1.0, tik marzoj 12, 2019
 expiresDaysHoursMinutes = { $days } t { $hours } h { $minutes } m
 addFilesButton = Shikpejpena ne tajkwilul pal tiktejkultia
 uploadButton = Shiktejkulti
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Shiktilana wan shikmayawi ne tajkwilul
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = u shikpachu pal tiktitania { $size }
 addPassword = Shiktajpia iwan ichtakatajkwilul

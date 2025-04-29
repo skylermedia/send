@@ -111,9 +111,9 @@ legalDateStamp = Version 1.0, Stand 12. März 2019
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = Dateien zum Hochladen auswählen
 uploadButton = Hochladen
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Dateien per Drag & Drop einfügen
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = oder klicken, um bis zu { $size } zu senden
 addPassword = Mit Passwort schützen

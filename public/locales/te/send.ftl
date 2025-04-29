@@ -94,9 +94,9 @@ legalDateStamp = వెర్షన్ 1.0, మార్చి 12, 2019 నా�
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = ఎక్కించడానికి ఫైళ్ళను ఎంచుకోండి
 uploadButton = ఎక్కించు
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ఫైళ్ళను లాగండి మరియు వదలండి
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = లేదా { $size } వరకు పంపడానికి నొక్కండి
 addPassword = సంకేతపదంతో రక్షించండి

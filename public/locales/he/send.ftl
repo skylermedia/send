@@ -114,9 +114,9 @@ legalDateStamp = גרסה 1.0, בתאריך 12 במרץ 2019
 expiresDaysHoursMinutes = { $days } ימים { $hours } שעות { $minutes } דקות
 addFilesButton = בחירת קבצים להעלאה
 uploadButton = העלאה
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = גרירה והשלכת קבצים
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = או ללחוץ כדי לשלוח קבצים עד לגודל של { $size }
 addPassword = הגנה באמצעות ססמה

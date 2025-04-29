@@ -103,9 +103,9 @@ legalDateStamp = Phiên bản 1.0, ngày 12 tháng 3 năm 2019
 expiresDaysHoursMinutes = { $days } ngày { $hours } giờ { $minutes } phút
 addFilesButton = Chọn tập tin để tải lên
 uploadButton = Tải lên
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Kéo và thả tập tin
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = hoặc nhấp để gửi tối đa { $size }
 addPassword = Bảo vệ bằng mật khẩu

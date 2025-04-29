@@ -98,9 +98,9 @@ legalDateStamp = 버전 1.0, 2019년 3월 12일자
 expiresDaysHoursMinutes = { $days }일 { $hours }시간 { $minutes }분
 addFilesButton = 업로드할 파일들을 선택하세요
 uploadButton = 업로드
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = 파일들을 여기에 끌어서 놓으세요
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = 또는 여기를 클릭하여 { $size }까지의 파일을 공유하세요.
 addPassword = 비밀번호로 파일 보호

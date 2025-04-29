@@ -111,9 +111,9 @@ legalDateStamp = Versió 1.0, amb data del 12 de març de 2019
 expiresDaysHoursMinutes = { $days } d { $hours } h { $minutes } min
 addFilesButton = Seleccioneu els fitxers que voleu pujar
 uploadButton = Puja
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Arrossegueu i deixeu anar els fitxers
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = o feu clic aquí per enviar fins a { $size }
 addPassword = Protegeix amb contrasenya

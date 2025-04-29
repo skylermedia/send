@@ -119,9 +119,9 @@ legalDateStamp = Verzia 1.0, z 12. marca 2019
 expiresDaysHoursMinutes = { $days } d { $hours } h { $minutes } min
 addFilesButton = Vyberte súbory pre nahratie
 uploadButton = Nahrať
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Pretiahnutím súboru alebo kliknutím sem
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = môžete poslať až { $size }
 addPassword = Chrániť heslom

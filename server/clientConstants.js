@@ -10,6 +10,7 @@ module.exports = {
   },
   WEB_UI: {
     FOOTER_DONATE_URL: config.footer_donate_url,
+    FOOTER_REPORT_URL: config.footer_report_url,
     FOOTER_CLI_URL: config.footer_cli_url,
     FOOTER_DMCA_URL: config.footer_dmca_url,
     FOOTER_SOURCE_URL: config.footer_source_url,

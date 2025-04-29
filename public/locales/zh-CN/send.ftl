@@ -108,9 +108,9 @@ legalDateStamp = 版本 1.0，于 2019年3月12日
 expiresDaysHoursMinutes = { $days } 天 { $hours } 小时 { $minutes } 分钟
 addFilesButton = 选择要上传的文件
 uploadButton = 上传
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = 拖放文件
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = 或点此传送最大 { $size } 的文件
 addPassword = 密码保护

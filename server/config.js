@@ -244,6 +244,11 @@ const conf = convict({
     default: '',
     env: 'SEND_FOOTER_DONATE_URL'
   },
+  footer_report_url: {
+    format: String,
+    default: '',
+    env: 'SEND_FOOTER_REPORT_URL'
+  },
   footer_cli_url: {
     format: String,
     default: 'https://github.com/timvisee/ffsend',

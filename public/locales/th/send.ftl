@@ -103,9 +103,9 @@ legalDateStamp = รุ่น 1.0 วันที่ 12 มีนาคม 2019
 expiresDaysHoursMinutes = { $days } วัน { $hours } ชม. { $minutes } นาที
 addFilesButton = เลือกไฟล์ที่จะอัปโหลด
 uploadButton = อัปโหลด
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ลากแล้วปล่อยไฟล์
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = หรือคลิกเพื่อส่งได้ถึง { $size }
 addPassword = ปกป้องด้วยรหัสผ่าน

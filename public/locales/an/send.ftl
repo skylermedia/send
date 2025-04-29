@@ -111,9 +111,9 @@ legalDateStamp = Versió 1.0, con data d'o 12 de marzo de 2019
 expiresDaysHoursMinutes = { $days } d { $hours } h { $minutes } min
 addFilesButton = Triar los fichers a cargar
 uploadButton = Cargar
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Arrociega y suelta los fichers
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = u fes clic aquí pa ninviar dica { $size }
 addPassword = Protecher con una clau

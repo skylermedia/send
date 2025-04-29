@@ -111,9 +111,9 @@ legalDateStamp = ვერსია 1.0, დათარიღებული 12
 expiresDaysHoursMinutes = { $days } დღე { $hours } სთ { $minutes } წთ
 addFilesButton = ფაილების შერჩევა ასატვირთად
 uploadButton = ატვირთვა
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = გადმოიტანეთ და მოათავსეთ ფაილები
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = ან დაწკაპეთ გასაგზავნად { $size }-მდე
 addPassword = პაროლით დაცვა

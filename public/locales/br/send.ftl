@@ -135,9 +135,9 @@ legalDateStamp = Handelv 1.0, d'an 12 a viz Meurzh 2019
 expiresDaysHoursMinutes = { $days }d { $hours }e { $minutes }m
 addFilesButton = Diuzit ur restr da bellgas
 uploadButton = Pellgas
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Riklit ha laoskit restroù
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = pe klikit evit kas betek { $size }
 addPassword = Gwareziñ gant ur ger-tremen

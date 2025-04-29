@@ -119,9 +119,9 @@ legalDateStamp = Версія 1.0 ад 12 сакавіка 2019
 expiresDaysHoursMinutes = { $days } д. { $hours } г. { $minutes } хв.
 addFilesButton = Выберыце файлы для загрузкі
 uploadButton = Загрузіць
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Перацягніце файлы сюды
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = або клікніце, каб адправіць да { $size }:
 addPassword = Абараніць паролем

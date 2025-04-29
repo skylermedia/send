@@ -111,9 +111,9 @@ legalDateStamp = وەشان 1.0، بەروار کراو لە 12 ئازار، 201
 expiresDaysHoursMinutes = { $days } ڕ { $hours } ک{ $minutes } خ
 addFilesButton = پەڕگەکان هەڵبژێرە بۆ بارکردن
 uploadButton = بارکردن
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = ڕاکێشان و دانانی پەڕگەکان
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = یان کرتە بکە بۆ ناردنی قەبارەی تاوەکوو { $size }
 addPassword = بپارێزە لەگەڵ وشەی تێپەڕ

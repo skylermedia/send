@@ -111,9 +111,9 @@ legalDateStamp = Version 1.0, daton 12 mars, 2019
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = Përzgjidhni kartela për ngarkim
 uploadButton = Ngarkoje
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Tërhiqni dhe lini kartela
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = ose klikoni që të dërgohen deri në { $size }
 addPassword = Mbrojini me fjalëkalim

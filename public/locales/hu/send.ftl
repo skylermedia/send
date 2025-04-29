@@ -111,9 +111,9 @@ legalDateStamp = 1.0-s verzió, kelt 2019. március 12-én
 expiresDaysHoursMinutes = { $days }n { $hours }ó { $minutes }p
 addFilesButton = Válassza ki a feltöltendő fájlokat
 uploadButton = Feltöltés
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Húzza ide a fájlokat
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = vagy jelentkezzen be, és küldjön legfeljebb { $size }-ot
 addPassword = Jelszavas védelem

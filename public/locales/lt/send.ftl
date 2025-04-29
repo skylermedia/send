@@ -127,9 +127,9 @@ legalDateStamp = 1.0 versija, 2019 m. kovo 12 d
 expiresDaysHoursMinutes = { $days } d. { $hours } val. { $minutes } min.
 addFilesButton = Rinktis failus įkėlimui
 uploadButton = Įkelti
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Užtempkite ir numeskite failus čia
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = arba spustelėkite mygtuką ir dalinkitės failais iki { $size }
 addPassword = Apsaugoti slaptažodžiu

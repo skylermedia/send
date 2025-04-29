@@ -111,9 +111,9 @@ legalDateStamp = Տարբերակ 1.0, թվագրված՝ 2019 թ. մարտի 12
 expiresDaysHoursMinutes = { $days }օր { $hours }ժ { $minutes }ր
 addFilesButton = Ընտրեք ֆայլեր՝ վերբեռնելու համար
 uploadButton = Վերբեռնել
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Քաշեք և գցեք ֆայլերը
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = կամ կտտացրեք`ուղարկելու համար մինչև { $size }
 addPassword = Պաշտպանեք գաղտնաբառով

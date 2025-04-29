@@ -111,9 +111,9 @@ legalDateStamp = Version 1.0, daterad den 12 mars 2019
 expiresDaysHoursMinutes = { $days }d { $hours }t { $minutes }m
 addFilesButton = Välj filer som ska laddas upp
 uploadButton = Ladda upp
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Dra och släpp filer
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = eller klicka för att skicka upp till { $size }
 addPassword = Skydda med lösenord

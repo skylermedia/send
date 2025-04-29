@@ -143,9 +143,9 @@ legalDateStamp = Fersiwn 1.0, dyddiedig Mawrth 12, 2019
 expiresDaysHoursMinutes = { $days } d { $hours } a { $minutes } m
 addFilesButton = Dewis ffeiliau i'w llwytho i fyny
 uploadButton = Llwytho i fyny
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Llusgo a gollwng ffeiliau
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = neu glicio i anfon hyd at { $size }
 addPassword = Diogelu gyda chyfrinair

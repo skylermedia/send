@@ -119,9 +119,9 @@ legalDateStamp = Издање 1.0, датум објављивања 12. мар�
 expiresDaysHoursMinutes = { $days }д { $hours }ч { $minutes }м
 addFilesButton = Изаберите датотеке за отпремање
 uploadButton = Отпреми
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Превуците и пустите датотеке
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = или кликните за слање садржаја великог до { $size }
 addPassword = Заштитите лозинком

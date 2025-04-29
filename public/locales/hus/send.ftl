@@ -107,9 +107,9 @@ legalDateStamp = Versión 1.0 ani t'ajadh ti Marzo 12 ti tamub 2019.
 expiresDaysHoursMinutes = { $days } k'icháj { $hours } hora { $minutes } minuto
 addFilesButton = Ka takuy an t'ojláb axi ne'ets ka k'adhba'
 uploadButton = Ka k'adhba'
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Ka kina' a t'ojlabil ani ka walka' te'
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = o ka t'aja' an clic abal ka abna' ma { $size }
 addPassword = Ka k'aniy k'al jún i tsinat japixtaláb

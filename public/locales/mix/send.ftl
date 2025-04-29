@@ -111,9 +111,9 @@ legalDateStamp = Versión 1.0 del 12 de marzo de 2019
 expiresDaysHoursMinutes = { $days }d { $hours }h { $minutes }m
 addFilesButton = Katsi tutu ku skau
 uploadButton = Skaa
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Xita cha sia kue tutu
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = katavi takua stuchaku ña mancha { $size }
 addPassword = Inka vai tsi tu'un seé

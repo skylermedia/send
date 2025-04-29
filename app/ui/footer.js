@@ -28,6 +28,15 @@ class Footer extends Component {
           </li>
         `);
       }
+      if (WEB_UI.FOOTER_REPORT_URL != '') {
+        links.push(html`
+          <li class="m-2">
+            <a href="${WEB_UI.FOOTER_REPORT_URL}" target="_blank">
+              ${translate('footerLinkReport')}
+            </a>
+          </li>
+        `);
+      }
       if (WEB_UI.FOOTER_CLI_URL != '') {
         links.push(html`
           <li class="m-2">

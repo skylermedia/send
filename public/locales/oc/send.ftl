@@ -111,9 +111,9 @@ legalDateStamp = Version 1.0 del 12 de març de 2019
 expiresDaysHoursMinutes = { $days } j { $hours } h { $minutes } min
 addFilesButton = Seleccionatz los fichièrs de mandar
 uploadButton = Enviar
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Lisatz-depausatz de fichièrs
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = o clicatz per enviar fins a { $size }
 addPassword = Protegir amb un senhal

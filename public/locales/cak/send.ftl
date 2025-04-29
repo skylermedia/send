@@ -111,9 +111,9 @@ legalDateStamp = Ruwäch 1.0, ruq'ijul marso 12, 2019
 expiresDaysHoursMinutes = { $days }q { $hours }r { $minutes }ch'
 addFilesButton = Kecha' taq yakb'äl richin yejotob'äx
 uploadButton = Tijotob'äx
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Keqirirëx chuqa' ke'osq'opïx taq yakb'äl
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = o tapitz'a' richin natäq k'a { $size }
 addPassword = Tichajïx rik'in ewan tzij

@@ -103,9 +103,9 @@ legalDateStamp = Versi 1.0, tertanggal 12 Maret 2019
 expiresDaysHoursMinutes = { $days }h { $hours }j { $minutes }m
 addFilesButton = Pilih berkas untuk diunggah
 uploadButton = Unggah
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Seret dan jatuhkan berkas
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = atau klik untuk mengirim hingga { $size }
 addPassword = Lindungi dengan kata sandi

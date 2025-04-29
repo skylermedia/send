@@ -111,9 +111,9 @@ legalDateStamp = نسخه ۱.۰، مورخ ۱۲، ۲۰۱۹
 expiresDaysHoursMinutes = { $days } روز { $hours } ساعت { $minutes } دقیقه
 addFilesButton = پرونده‌ها را برای بارگذاری انتخاب کنید
 uploadButton = بارگذاری
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = فایل‌ها را بکشید و اینجا رها کنید
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = یا برای ارسال تا { $size } کلیک کنید
 addPassword = با گذرواژه محافظت کنید

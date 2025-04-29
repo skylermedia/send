@@ -111,9 +111,9 @@ legalDateStamp = Lqem  1.0, azemz n 12 Meɣres 2019
 expiresDaysHoursMinutes = { $days } ass { $hours } srg { $minutes } tsd
 addFilesButton = Fren ifuyla ad tessaliḍ
 uploadButton = Sali
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Ẓuɣer sakin sers ifuyla
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = neɣ sit akken ad tazneḍ arma d { $size }
 addPassword = Ḥrez s wawal uffir

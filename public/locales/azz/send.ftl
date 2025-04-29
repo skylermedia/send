@@ -103,9 +103,9 @@ legalDateStamp = Versión 1.0 tein kikixtijkej 12 tonal metsti marzo 2019
 expiresDaysHoursMinutes = { $days }t { $hours }h { $minutes }m
 addFilesButton = Xikinixpejpena tajkuilolmej archivos tein  tikintejkoltis
 uploadButton = Xiktejkolti
-# the first part of the string 'Drag and drop files or click to send up to 1GB'
+# the first part of the string 'Drag and drop files or click to send up to 1GB.'
 dragAndDropFiles = Xikintilana uan xikinkajkaua tajkuilolmej archivos
-# the second part of the string 'Drag and drop files or click to send up to 1GB'
+# the second part of the string 'Drag and drop files or click to send up to 1GB.'
 # $size is the size of the file, displayed using the fileSize message as format (e.g. "2.5MB")
 orClickWithSize = oso xikpatskili uan tiktitanis, sayoj tein amo panoua  { $size }
 addPassword = Xikyekpia ika se ichtakatajtol
